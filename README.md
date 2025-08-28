@@ -4,5 +4,5 @@ trial with GitHub
 
 
 
-Hello! I am Kendall
+Hello! I am Kendall, this is cloned
 
